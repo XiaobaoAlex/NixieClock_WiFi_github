@@ -3,7 +3,7 @@
 
 一、项目概述
     功能简述：以飞思卡尔MC9S08DZ60为主控芯片，驱动六个辉光管分别显示时分秒或者年月日，带有wifi模块可以连接互联网正时。
-
+https://github.com/XiaobaoAlex/NixieClock_WiFi_github/blob/main/%E5%9B%BE%E7%89%87/duck.png
 二、实现思路
 1.板子的最小系统以MC9S08DZ60为核心；
 
